@@ -103,14 +103,13 @@ Cara Tambah XP:
 ╠➥ Github: https://github.com/Arya274/Arya-Bot
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : NFQ BOT
+╠➥ Name : 🤖Rogério Ávila 
 ╠➥ Coded using *Nano* on Android \\w Termux
-╠➥ Request? Wa.me/6288235435804
 ╠═════
 ║ Advanced:
 ║  > return m
 ║
-╠═〘 NfQ BOT 〙═
+╠═〘 Rogério Ávila BOT 〙═
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }

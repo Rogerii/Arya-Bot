@@ -35,7 +35,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 🤖 [NFQ BOT] 🤖
 Created Bye: @Drawl Nag
 
-Hi, ${name} 👋
+Hi, ${on} 👋
 Exp: ${exp}
 
 📟 Waktu: ${time}

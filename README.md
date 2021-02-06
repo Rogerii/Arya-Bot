@@ -1,4 +1,4 @@
-# NfQ-BoT
+# Bot Rogério Ávila 
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
